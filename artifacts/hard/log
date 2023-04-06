@@ -1,0 +1,42 @@
+Main process: time = 1680805839.5641222, input = Hello world
+Main process: time = 1680805839.564856, message in queue = Hello world
+Process A: time = 1680805839.5651, message from queue = Hello world
+Process A: time = 1680805839.565258, send message = hello world
+Process B: time = 1680805839.5652878, got message = hello world
+Process B: time = 1680805839.5657558, send message = uryyb jbeyq
+Main process: time = 1680805839.5657952, got message = uryyb jbeyq
+Main process: time = 1680805844.902866, input = Hello!
+Main process: time = 1680805844.9031098, message in queue = Hello!
+Process A: time = 1680805844.903221, message from queue = Hello!
+Process A: time = 1680805844.903615, send message = hello!
+Process B: time = 1680805844.90364, got message = hello!
+Process B: time = 1680805844.903719, send message = uryyb!
+Main process: time = 1680805844.903737, got message = uryyb!
+Main process: time = 1680805850.37691, input = How are you?
+Main process: time = 1680805850.377175, message in queue = How are you?
+Process A: time = 1680805850.3772879, message from queue = How are you?
+Process A: time = 1680805850.377633, send message = how are you?
+Process B: time = 1680805850.3776572, got message = how are you?
+Process B: time = 1680805850.3777611, send message = ubj ner lbh?
+Main process: time = 1680805850.3777778, got message = ubj ner lbh?
+Main process: time = 1680805863.5012622, input = What language is it?
+Main process: time = 1680805863.501554, message in queue = What language is it?
+Process A: time = 1680805863.501704, message from queue = What language is it?
+Process A: time = 1680805863.502005, send message = what language is it?
+Process B: time = 1680805863.502078, got message = what language is it?
+Process B: time = 1680805863.502201, send message = jung ynathntr vf vg?
+Main process: time = 1680805863.50222, got message = jung ynathntr vf vg?
+Main process: time = 1680805871.68643, input = Bruuh
+Main process: time = 1680805871.6867352, message in queue = Bruuh
+Process A: time = 1680805871.686812, message from queue = Bruuh
+Process A: time = 1680805871.687155, send message = bruuh
+Process B: time = 1680805871.6871831, got message = bruuh
+Process B: time = 1680805871.6872928, send message = oehhu
+Main process: time = 1680805871.68731, got message = oehhu
+Main process: time = 1680805881.052691, input = Bye
+Main process: time = 1680805881.052989, message in queue = Bye
+Process A: time = 1680805881.0531058, message from queue = Bye
+Process A: time = 1680805881.053411, send message = bye
+Process B: time = 1680805881.053443, got message = bye
+Process B: time = 1680805881.05355, send message = olr
+Main process: time = 1680805881.0535822, got message = olr

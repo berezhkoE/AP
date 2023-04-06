@@ -1,0 +1,42 @@
+THREADS:
+Number of workers = 1, Time = 7.772445678710938e-05
+Number of workers = 2, Time = 8.296966552734375e-05
+Number of workers = 3, Time = 0.0002665519714355469
+Number of workers = 4, Time = 0.0002605915069580078
+Number of workers = 5, Time = 0.00017499923706054688
+Number of workers = 6, Time = 0.00021409988403320312
+Number of workers = 7, Time = 0.00013208389282226562
+Number of workers = 8, Time = 0.00019860267639160156
+Number of workers = 9, Time = 0.00022077560424804688
+Number of workers = 10, Time = 0.0001895427703857422
+Number of workers = 11, Time = 0.00011730194091796875
+Number of workers = 12, Time = 0.00023365020751953125
+Number of workers = 13, Time = 0.00020766258239746094
+Number of workers = 14, Time = 0.000217437744140625
+Number of workers = 15, Time = 0.00022125244140625
+Number of workers = 16, Time = 9.250640869140625e-05
+Number of workers = 17, Time = 0.00011491775512695312
+Number of workers = 18, Time = 0.0002758502960205078
+Number of workers = 19, Time = 0.00039267539978027344
+
+
+PROCESSES:
+Number of workers = 1, Time = 7.891654968261719e-05
+Number of workers = 2, Time = 7.700920104980469e-05
+Number of workers = 3, Time = 7.486343383789062e-05
+Number of workers = 4, Time = 7.486343383789062e-05
+Number of workers = 5, Time = 7.319450378417969e-05
+Number of workers = 6, Time = 7.486343383789062e-05
+Number of workers = 7, Time = 7.963180541992188e-05
+Number of workers = 8, Time = 8.130073547363281e-05
+Number of workers = 9, Time = 7.462501525878906e-05
+Number of workers = 10, Time = 7.891654968261719e-05
+Number of workers = 11, Time = 8.916854858398438e-05
+Number of workers = 12, Time = 7.462501525878906e-05
+Number of workers = 13, Time = 9.083747863769531e-05
+Number of workers = 14, Time = 9.870529174804688e-05
+Number of workers = 15, Time = 0.000102996826171875
+Number of workers = 16, Time = 8.916854858398438e-05
+Number of workers = 17, Time = 8.916854858398438e-05
+Number of workers = 18, Time = 8.869171142578125e-05
+Number of workers = 19, Time = 8.749961853027344e-05
